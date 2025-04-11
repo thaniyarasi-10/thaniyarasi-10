@@ -6,7 +6,7 @@
 
 ##  About Me
 
-I am a passionate **Full Stack Developer** dedicated to creating dynamic and user-friendly applications. With a strong foundation in **Java**, **HTML**, and **CSS**, I am driven to build seamless solutions that bridge the gap between front-end and back-end development. My leadership and project management skills enable me to effectively guide projects from ideation to completion, ensuring they are delivered on time and within scope.
+I am a passionate **Full Stack Developer** dedicated to creating dynamic and user-friendly applications. With a strong foundation in **Java**, **HTML**, **CSS** and **JavaScript** I am driven to build seamless solutions that bridge the gap between front-end and back-end development. My leadership and project management skills enable me to effectively guide projects from ideation to completion, ensuring they are delivered on time and within scope.
 
 ---
 
@@ -18,7 +18,7 @@ I am a passionate **Full Stack Developer** dedicated to creating dynamic and use
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" />
 
 
 ---
