@@ -6,7 +6,7 @@
 
 ##  About Me
 
-I am a passionate **Full Stack Developer** dedicated to creating dynamic and user-friendly applications. With a strong foundation in **Java**, **HTML**, **CSS** and **JavaScript** I am driven to build seamless solutions that bridge the gap between front-end and back-end development. My leadership and project management skills enable me to effectively guide projects from ideation to completion, ensuring they are delivered on time and within scope.
+I am a motivated Software Developer with a strong foundation in Java, HTML, CSS, and JavaScript, passionate about building efficient and scalable software solutions. Skilled in both front-end and back-end development, I focus on writing clean, maintainable code and optimizing application performance. My experience in leading projects and collaborating with teams enables me to deliver solutions effectively from design to deployment.
 
 ---
 
@@ -18,7 +18,7 @@ I am a passionate **Full Stack Developer** dedicated to creating dynamic and use
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" />
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
 
 
 ---
@@ -27,11 +27,12 @@ I am a passionate **Full Stack Developer** dedicated to creating dynamic and use
 
 I am open to collaborating on:
 
-- **Web Application Development:** Crafting intuitive and responsive web experiences.
+- **Software Development:** Designing efficient, scalable, and maintainable software solutions.
 - **Full Stack Projects:** End-to-end development with seamless front-end and back-end integration.
-- **Innovative Software Solutions:** Tackling complex challenges with creative, impactful solutions.
-- **Open Source Projects:** Contributing to the community and helping advance technology.
-- **Mentorship:** Guiding and supporting aspiring developers on their journey.
+- **Problem-Solving Challenges:** Tackling complex technical problems with innovative solutions.
+- **Open Source Contributions:** Enhancing tools and libraries to support the developer community.
+- **Mentorship:** Guiding and supporting aspiring developers on coding and software design.
+
 
 ---
 
